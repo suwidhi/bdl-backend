@@ -1,0 +1,17 @@
+Car
+CarOption
+CarType
+CompanyCustomer
+Dealer
+Employee
+EmployeeType
+IndividualCustomer
+Manufacturer
+CarModel
+Part
+Supplier
+Transaction
+TransactionStatus
+TransactionType
+UserType
+User
