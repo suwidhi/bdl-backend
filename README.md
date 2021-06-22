@@ -1,6 +1,8 @@
 Daftar Login (username:password)
 manufacturer = automobile@navi.com:navi
 
+Admin Page: /admin
+
 Program yang diperlukan:
 1. MySQL untuk database. Versi: 15.1 (versi kemungkinan tidak terlalu berpengaruh)
 2. PHP. Versi >= 8.0
